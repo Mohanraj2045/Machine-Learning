@@ -6,7 +6,7 @@ Welcome to the Gesture-Controlled Open World Game project! This project allows y
 
 This project explores the integration of gesture and posture recognition to enhance the user experience in an open-world game. By utilizing computer vision techniques and machine learning algorithms, the player can interact with the game environment using natural gestures and postures.
 
-## Output_video link : ## [output.mp4]([url](https://github.com/Mohanraj2045/Machine-Learning/blob/main/open_world_game_controller/output.mp4))
+## Output_video link : ## [output.mp4](https://github.com/Mohanraj2045/Machine-Learning/blob/main/open_world_game_controller/output.mp4)
 
 ## **Features:**
 
@@ -57,8 +57,7 @@ scikitlearn
 open-cv
 pyautogui
 
-_Clone the repository:_ https://github.com/Mohanraj2045/Machine-Learning/tree/main/templerun_game_control_using_mediapipe
-
+_Clone the repository:_  [Game_controller]((https://github.com/Mohanraj2045/Machine-Learning/tree/main/open_world_game_controller))
 
 ## **Run the main script:**
 
@@ -83,7 +82,7 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## **License:**
 
-This project is licensed under the ([**[Apache License]**](https://github.com/Mohanraj2045/Machine-Learning/blob/main/LICENSE)).
+This project is licensed under the [**Apache License**](https://github.com/Mohanraj2045/Machine-Learning/blob/main/LICENSE)
 
 ## **Acknowledgements:**
 
