@@ -1,4 +1,4 @@
-#Gesture-Controlled Open World Game:
+# Gesture-Controlled Open World Game:
 
 Welcome to the Gesture-Controlled Open World Game project! This project allows you to control an open-world game using posture and gesture recognition. The entire project is implemented in Python, making use of the following libraries: mediapipe, sklearn,open-cv and pyautogui.
 
