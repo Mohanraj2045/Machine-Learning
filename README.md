@@ -6,7 +6,7 @@ Welcome to the Gesture-Controlled Open World Game project! This project allows y
 
 This project explores the integration of gesture and posture recognition to enhance the user experience in an open-world game. By utilizing computer vision techniques and machine learning algorithms, the player can interact with the game environment using natural gestures and postures.
 
-## Output_video link : ## [output.mp4](https://github.com/Mohanraj2045/Machine-Learning/blob/main/open_world_game_controller/output.mp4)
+## Output_video link :  [output.mp4](https://github.com/Mohanraj2045/Machine-Learning/blob/main/open_world_game_controller/output.mp4)
 
 ## **Features:**
 
