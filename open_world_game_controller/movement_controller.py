@@ -20,7 +20,7 @@ class control_movement :
 
     def process(self,landmarks):
 
-        s = np.array( [[landmarks[i].x , landmarks[i].y , landmarks[i].x , landmarks[i].visibility] for i in self.hand_landmarks]).flatten().reshape(1,-1)
+        s = np.array( [[landmarks[i].x , landmarks[i].y , landmarks[i].z , landmarks[i].visibility] for i in self.hand_landmarks]).flatten().reshape(1,-1)
 
         p = int(self.model.predict(s)[0])
 
